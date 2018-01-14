@@ -33,7 +33,7 @@ Module.register("calendar", {
 		calendars: [
 			{
 				symbol: "calendar",
-				url: "http://www.calendarlabs.com/templates/ical/US-Holidays.ics",
+				url: "https://www.officeholidays.com/ics/ics_country_code.php?iso=IS",
 			},
 		],
 		titleReplace: {
